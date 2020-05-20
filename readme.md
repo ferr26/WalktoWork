@@ -1,6 +1,7 @@
 # WalkToWork
 
-Un motore di visulizzazione delle offerte lavorative, in grado di aiutare gli utenti meno esperti nella scelta più conveniente possibile. 
+Un sito di integrazione di visulizzazione delle offerte lavorative, in grado di aiutare gli utenti meno esperti nella scelta più conveniente possibile. 
+
 
 Per illustrare questo tipo di applicazione si propone un sistema che guidi gli utenti nella scelta valutando:
 
